@@ -1,0 +1,15 @@
+Git Practice Notes
+==================
+
+This is a sample text file you can use to practice Git commands.
+
+Things to try:
+1. Edit this file and commit your changes
+2. Create a new branch and make different changes
+3. Practice merging branches
+4. Try reverting changes
+5. Experiment with git diff
+
+Remember: Git is a powerful tool for version control!
+
+Feel free to add your own notes here as you learn.
