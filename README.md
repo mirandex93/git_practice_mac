@@ -1,1 +1,1 @@
-# git_practice_mac
+This is me trying to leran how to use git XD 
